@@ -1,0 +1,26 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1687229995602,
+            "name": "D:\\node-typescript-starter\\logs\\access.2023-06-20.log",
+            "hash": "66c7db78558c84a1d04d85b81f9f743c"
+        },
+        {
+            "date": 1687252455939,
+            "name": "D:\\node-typescript-lab\\logs\\access.2023-06-20.log",
+            "hash": "63f630f13c5b71df25c041c5d7473bc7"
+        },
+        {
+            "date": 1687309931070,
+            "name": "D:\\node-typescript-lab\\logs\\access.2023-06-21.log",
+            "hash": "e3ba1b557e2ba4d0fe1cd2795647b879"
+        }
+    ]
+}
